@@ -6,7 +6,7 @@ Antes de empezar a usar los comandos de este documento deberemos estar con el us
 
 ## Creamos un contenedor Docker con Jekyll:
 
-**El comando necesario es:**
+** El comando necesario es: **
 ```
 docker run -it --rm -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll
 ```
