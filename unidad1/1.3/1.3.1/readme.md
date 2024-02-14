@@ -24,15 +24,15 @@
 #### Instalamos el servidor de base de datos y cliente
 ![Imagen-2m](mariadb/2.PNG)
 ![Imagen-3m](mariadb/3.PNG)
-####
+#### Accedemos a MariaDB desde la consola del servidor
 ![Imagen-4m](mariadb/4.1.PNG)
+#### Cambiamos la contraseña del usuario root
 ![Imagen-5m](mariadb/5.PNG)
 ![Imagen-6m](mariadb/6.PNG)
 ![Imagen-7m](mariadb/7.PNG)
+#### Instalamos phpmyadmin con el comando "apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl -y" y cuando nos aparezca la siguiente pantalla seleccionaresmoas apache2 
 ![Imagen-1pma](phpmyadmin/1.PNG)
+#### Comprobamos el acceso a PHPMyAdmin buscando en el navegador http://ip_host/phpmyadmin/
 ![Imagen-2pma](phpmyadmin/2.PNG)
+#### Contenido ficheros index.php e info.php
 ![Imagen-3pma](phpmyadmin/finalo%201.3.1.PNG)
-Paso 1: Actualización repositorios:
-Paso 2: Instalación servidor de base de datos y cliente
-Paso 3: Acceso a MariaDB desde consola servidor
-Paso 4: Cambiar la contraseña de root
